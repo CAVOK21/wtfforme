@@ -1,0 +1,15 @@
+* {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+html {
+  background-color: black;
+}
+.osnova {
+  max-width: 800px;
+
+  margin: auto;
+}
+.title {
+text-align: center;
+}
