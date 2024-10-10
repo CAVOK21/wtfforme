@@ -4,7 +4,7 @@
 }
 
 html {
-    background-color: #1f1f1f;
+    background-color: #1b1b1b;
 }
 
 .osnova {
@@ -30,13 +30,13 @@ a {
 }
 
 .telegram {
-    background: rgb(39,167,232);
-    background: linear-gradient(90deg, rgba(39,167,232,1) 0%, rgba(39,167,232,1) 100%);
+    background: rgb(39, 167, 232);
+    background: linear-gradient(90deg, rgba(39, 167, 232, 1) 0%, rgba(39, 167, 232, 1) 100%);
 }
 
 .instagram {
-    background: rgb(96,73,224);
-    background: linear-gradient(90deg, rgba(96,73,224,1) 0%, rgba(216,22,174,1) 32%, rgba(250,23,29,1) 65%, rgba(253,190,84,1) 100%);
+    background: rgb(96, 73, 224);
+    background: linear-gradient(90deg, rgba(96, 73, 224, 1) 0%, rgba(216, 22, 174, 1) 32%, rgba(250, 23, 29, 1) 65%, rgba(253, 190, 84, 1) 100%);
 }
 
 .buttonlink {
@@ -47,10 +47,10 @@ a {
 }
 
 .GitHub {
-    background: rgb(19,22,25);
-    background: linear-gradient(90deg, rgba(19,22,25,1) 20%, rgba(0,0,0,1) 86%);
+    background: rgb(19, 22, 25);
+    background: linear-gradient(90deg, rgba(19, 22, 25, 1) 20%, rgba(0, 0, 0, 1) 86%);
 }
 
 .X {
-   background-color: black;
+    background-color: black;
 }
